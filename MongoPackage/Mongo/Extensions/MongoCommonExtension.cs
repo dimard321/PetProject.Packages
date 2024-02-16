@@ -1,6 +1,6 @@
 ﻿namespace MongoPackage.Mongo.Extensions
 {
-    public static class MongoProviderCollectionsExtension
+    public static class MongoCommonExtension
     {
 
     }

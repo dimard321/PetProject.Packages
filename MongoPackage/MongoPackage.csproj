@@ -5,10 +5,14 @@
     <Title>MongoDb Package.</Title>
     <Description>Пакет для использования MongoDB Driver.</Description>
     <RepositoryUrl>https://github.com/dimard321/PetProject.Packages</RepositoryUrl>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <PackageReleaseNotes>Добавлен пакет.</PackageReleaseNotes>
     <LangVersion>default</LangVersion>
     <TargetFramework>NET7.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>../bin/Release</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
