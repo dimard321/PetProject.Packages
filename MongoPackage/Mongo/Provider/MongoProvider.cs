@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using System;
 
 namespace MongoPackage.Mongo.Provider
 {
