@@ -4,7 +4,6 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Title>MongoDb Package.</Title>
     <Description>Пакет для использования MongoDB Driver.</Description>
-    <Copyright>SimbirSoft</Copyright>
     <RepositoryUrl>https://github.com/dimard321/PetProject.Packages</RepositoryUrl>
     <PackageVersion>1.0.0</PackageVersion>
     <PackageReleaseNotes>Добавлен пакет.</PackageReleaseNotes>
